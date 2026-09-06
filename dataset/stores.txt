@@ -1,0 +1,11 @@
+StoreID|StoreName|City|Country
+ST01|Downtown Flagship|New York|USA
+ST02|Westside Mall|Los Angeles|USA
+ST03|Lakeview Center|Chicago|USA
+ST04|Riverside Plaza|Houston|USA
+ST05|Old Town Market|Toronto|Canada
+ST06|Harbor Point|Vancouver|Canada
+ST07|Central Square|London|UK
+ST08|North Quarter|Manchester|UK
+ST09|Sunset Boulevard|Sydney|Australia
+ST10|Bayview Outlet|Melbourne|Australia
