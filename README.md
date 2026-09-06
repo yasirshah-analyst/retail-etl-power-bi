@@ -62,6 +62,10 @@ Built in Power BI:
 - **Revenue by Product Category**: Electronics leads ($0.34M), followed closely by Home Goods, Beauty, Sporting Goods, and Apparel (all in the $0.27M–$0.32M range)
 - **Revenue by Country**: store-level performance rolled up to country, using the `stores` relationship
 
+**Dashboard**
+
+![Dashboard](retail_data/dashboard/dashboard.png)
+
 ---
 
 ## Key Findings
