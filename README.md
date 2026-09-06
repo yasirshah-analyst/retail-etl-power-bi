@@ -93,6 +93,22 @@ The trend line shows several moderate peaks and one sharp spike (~$0.12M) around
 
 ---
 
+## Project Structure
+
+ETL-Power-BI/
+│
+├── dashboard/
+│   ├── ETL.pbix
+│   └── dashboard.png
+│
+├── dataset/
+│   ├── order_items.csv
+│   ├── orders.csv
+│   ├── products.xlsx
+│   └── stores.txt
+│
+└── README.md
+
 ## Tools Used
 
 Power BI (Power Query, DAX measures, dashboard design) · Excel · CSV/text file handling
