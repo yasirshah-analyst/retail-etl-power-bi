@@ -74,7 +74,7 @@ Built in Power BI:
 Online revenue ($0.77M) is nearly 6x Wholesale ($0.13M) — a large enough gap to warrant investigating whether this reflects a genuine market difference or an under-invested sales channel.
 
 **2. Electronics leads, but category revenue is fairly evenly distributed overall.**
-Aside from Electronics' modest lead, the remaining four categories cluster closely together (all within $0.05M of each other) — no single category is dramatically underperforming.
+Aside from Electronics' modest lead, the remaining four categories cluster closely together — no single category is dramatically underperforming.
 
 **3. Revenue shows clear month-to-month volatility, with a pronounced peak around mid-2025.**
 The trend line shows several moderate peaks and one sharp spike (~$0.12M) around July 2025, worth investigating further (e.g., a seasonal promotion or large wholesale order) in future work.
