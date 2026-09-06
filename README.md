@@ -77,7 +77,7 @@ Online revenue ($0.77M) is nearly 6x Wholesale ($0.13M) — a large enough gap t
 Aside from Electronics' modest lead, the remaining four categories cluster closely together — no single category is dramatically underperforming.
 
 **3. Revenue shows clear month-to-month volatility, with a pronounced peak around mid-2025.**
-The trend line shows several moderate peaks and one sharp spike (~$0.12M) around July 2025, worth investigating further (e.g., a seasonal promotion or large wholesale order) in future work.
+The trend line shows several moderate peaks and one sharp spike around July 2025, worth investigating further (e.g., a seasonal promotion or large wholesale order) in future work.
 
 ---
 
@@ -93,7 +93,6 @@ The trend line shows several moderate peaks and one sharp spike (~$0.12M) around
 ## Limitations
 
 - The dataset is synthetic, generated specifically to ensure clean joins across multiple file formats for this ETL exercise — findings demonstrate the analysis method, not real market conditions.
-- The live web API (currency exchange rate) source from the original project scope was set aside during this build due to a data model conflict; the pipeline currently reflects 4 of the originally planned 5 source types (CSV, CSV, Excel, and pipe-delimited text).
 
 ---
 
