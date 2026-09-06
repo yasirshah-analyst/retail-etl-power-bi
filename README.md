@@ -64,7 +64,7 @@ Built in Power BI:
 
 **Dashboard**
 
-![Dashboard](retail_data/dashboard/dashboard.png)
+![Dashboard](dashboard/dashboard.png)
 
 ---
 
