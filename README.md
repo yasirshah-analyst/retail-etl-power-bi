@@ -95,6 +95,7 @@ The trend line shows several moderate peaks and one sharp spike (~$0.12M) around
 
 ## Project Structure
 
+```
 ETL-Power-BI/
 │
 ├── dashboard/
@@ -108,6 +109,8 @@ ETL-Power-BI/
 │   └── stores.txt
 │
 └── README.md
+```
+---
 
 ## Tools Used
 
